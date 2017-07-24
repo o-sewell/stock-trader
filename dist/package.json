@@ -1,0 +1,10 @@
+{
+ "name": "stock-trader",
+ "version": "1.0.0",
+ "description": "stock-trader",
+ "author": "Oliver S",
+ "private": true,
+ "scripts": {
+   "postinstall": "npm install express"
+ }
+}
